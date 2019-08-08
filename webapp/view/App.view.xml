@@ -8,7 +8,9 @@
 					</content>
 					<footer>
 						<Toolbar>
-							<Link text="Explore Movie Database"	href="https://www.imdb.com/"/>	
+							<ToolbarSpacer/>
+							<Link emphasized="true" target="_blank" href="https://www.imdb.com/" text="Explore the IMDb Movie Database"/>	
+							<ToolbarSpacer/>
 						</Toolbar>
 					</footer>					
 				</Page>
