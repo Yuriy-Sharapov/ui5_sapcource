@@ -9,7 +9,7 @@
 					<footer>
 						<Toolbar>
 							<ToolbarSpacer/>
-							<Link emphasized="true" target="_blank" href="https://www.imdb.com/" text="Explore the IMDb Movie Database"/>	
+							<Link emphasized="true" target="_blank" href="https://www.imdb.com/" text="Explore the IMDb Movie Database"/>
 							<ToolbarSpacer/>
 						</Toolbar>
 					</footer>					
