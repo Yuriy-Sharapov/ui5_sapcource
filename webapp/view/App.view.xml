@@ -4,14 +4,13 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content>
-						<Image
-							src="images/MoviesHeader.png"
-							tooltip="Movie Illustration"
-							width="100%">
-							
-						</Image>
-						
+						<Image src="images/MoviesHeader.png" tooltip="Movie Illustration" width="100%"></Image>
 					</content>
+					<footer>
+						<Toolbar>
+							<Link text="Explore Movie Database"	href="https://www.imdb.com/"/>	
+						</Toolbar>
+					</footer>					
 				</Page>
 			</pages>
 		</App>
