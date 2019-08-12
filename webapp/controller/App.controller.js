@@ -14,7 +14,7 @@ sap.ui.define([
 		onInit: function () {
 			Log.info("Controller has been initialized.");
 		},
-		onBeforeRendering: function () {
+		onBeforeRendering: function () { 
 			Log.info("The view will shortly be rendered.");
 		},
 		onAfterRendering: function () {

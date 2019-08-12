@@ -33,7 +33,7 @@
 						<toolbarContent>
 							<Title text="Showtimes" titleStyle="H3"/>
 						</toolbarContent>
-						<rows>
+						<rows> 
 							<PlanningCalendarRow
 								title="{movies>name}"
 								text="{movies>genre}"
